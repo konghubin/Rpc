@@ -1,0 +1,3 @@
+# Project exclude paths
+/Rpc-client/target/
+/Rpc-service/target/
